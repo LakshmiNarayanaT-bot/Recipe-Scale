@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Scale",
+  "description": "Portion and serving size calculator for home cooks to accurately scale ingredient quantities up or down.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
